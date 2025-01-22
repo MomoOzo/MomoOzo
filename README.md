@@ -16,8 +16,8 @@ Full-Stack Web Developer | MERN Stack Specialist | JavaScript, TypeScript, React
 Core Skills:
 
 • Front-End: JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind, Sass<br>
-• Back-End: Node.js, Express, Django, RESTful API Development<br>
-• Database: MongoDB, MySQL<br>
+• Back-End: Node.js, Express, RESTful API Development<br>
+• Database: MongoDB, PostgreSQL<br>
 • Software Design: Object-Oriented Design (OOD), Design Patterns, Data Structures & Algorithms (DSA)<br>
 • Other Languages: Python, Java, C++<br>
 • Security: Basic security principles and best practices<br>
@@ -49,9 +49,8 @@ With a commitment to delivering clean, efficient, and secure web solutions, I am
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django " width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/PostgreSQL/PostgreSQL-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
