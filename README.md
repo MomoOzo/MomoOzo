@@ -9,7 +9,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/momoozo/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username MomoOzo" /></a>
   <a href="mailto:mahmoudabdelsalammahrous@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of MomoOzo  mahmoudabdelsalammahrous@gmail.com" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username MomoOzo" ></a>
 </div>
 <br>
 
