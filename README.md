@@ -59,37 +59,6 @@ As a full-stack developer, I specialize in the **MERN stack** (MongoDB, Express,
 </div>
 
 
----
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30">
-  <strong style="display: inline-block; vertical-align: middle;">📩 Let's Connect!&nbsp;&nbsp;</strong>
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30">
-</div>
 
-
-<br>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mahmoud-a-879003200">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50"/>
-  </a>
-  
-  <a href="https://wa.me/+2001286629583">
-    <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="50"/>
-  </a>
-  
-  <a href="#">
-    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="50"/>
-  </a>
- 
-  <a href="#">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50"/> 
-  </a>
-
-  <!--
- <a href="#">
-    <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="50"/>
-  </a>
-  -->
 </p>
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" /> 
