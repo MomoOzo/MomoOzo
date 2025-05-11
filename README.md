@@ -54,7 +54,7 @@ As a full-stack developer, I specialize in the **MERN stack** (MongoDB, Express,
  Tech Stack & Tools
 </h2>
 <div align=center >
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,HTML,CSS,tailwind,nodejs,express,mongodb,postgresql,python,java,cpp,aws,git,docker,kubernetes,jwt&perline=13" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,mongodb,postgresql,python,java,cpp,aws,git,docker,kubernetes,jwt&perline="18 />
   
 </div>
 
