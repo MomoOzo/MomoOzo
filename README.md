@@ -27,7 +27,7 @@ As a full-stack developer, I specialize in the **MERN stack** (MongoDB, Express,
 
 ### 🛠 Core Skills:
 
-- **Front-End**: JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind, Sass
+- **Front-End**: JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind
 - **Back-End**: Node.js, Express, RESTful API Development
 - **Database**: MongoDB, PostgreSQL
 - **DevOps & Cloud**: Docker, Kubernetes, AWS, CI/CD
